@@ -2,7 +2,7 @@
 otherwise it will not get database.
 # 2.import database in you server
 # 3. install node module  or type in command promt 'npm i'
-#4. if need you may update node module or type in command promt 'npm update'
+# 4. if need you may update node module or type in command promt 'npm update'
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
